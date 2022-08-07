@@ -1,51 +1,52 @@
 
 # Refactoring To-do List
 ## Structure code
-├── internals/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── selectors/
-│   ├── sagas/
-│   ├── slices/
-│   ├── services/
-│   ├── SharedComponents
-│   │   ├── index.js
-│   │   ├── modal/
-|   │   │   ├── index.js
-|   │   │   ├── styles.scss
-|   │   │   ├── __tests__
-|   │   |   │   ├── index.test.js
-│   │   ├── Header/
-|   │   │   ├── index.js
-|   │   │   ├── styles.scss
-|   │   │   ├── __tests__
-|   │   |   │   ├── index.test.js
-│   │   ├── HTabContainer.jsx
-│   │   ├── Select.jsx
-│   │   ├── TabContainer.jsx
-│   ├── pages/
-│   │   ├── ClaimDetailsPage/
-|   │   │   ├── index.js
-|   │   │   ├── assets/
-|   │   │   ├── sharedComponents/
-|   │   │   |   ├── Modal/
-|   │   │   |   ├── Tooltip/
-|   │   │   ├── components/
-|   │   │   |   ├── AuditTypeContent.jsx
-|   │   │   |   ├── ClaimDetails.jsx
-|   │   │   |   ├── ClaimDetailsVerticalIconMenu.jsx
-|   │   │   |   ├── ClaimDetailValue.jsx
-|   │   │   |   ├── ClaimProcessDetails.jsx
-|   │   │   |   ├── ClaimValue.jsx
-|   │   │   |   ├── InlineEditableField.jsx
-|   │   │   |   ├── LocalDatePicker.jsx
-|   │   │   ├── customizedCss/
-│   │   ├── otherPages/
-├── package.json
-├── jest.config.js
-├── .babelrc
-        
+
+- internals/
+- public/
+- src/
+    - assets/ 
+    - selectors/
+    - sagas/
+    - slices/
+    - services/
+    - sharedComponents/
+        - index.js
+        - modal/
+            - index.js
+            - styles.scss
+            - __tests__/
+                - index.test.js
+        - Header/
+            - index.js
+            - styles.scss
+            - __tests__/
+                - index.test.js
+        - HTabContainer.jsx,
+        - Select.jsx,
+        - TabContainer.jsx,
+    - pages/
+        - ClaimDetailsPage/
+            - index.js
+            - assets/
+            - sharedComponents/
+                - Modal/
+                - Tooltip/
+            - components/
+                - AuditTypeContent.jsx
+                - ClaimDetails.jsx
+                - ClaimDetailsVerticalIconMenu.jsx
+                - ClaimDetailValue.jsx
+                - ClaimProcessDetails.jsx
+                - ClaimValue.jsx
+                - InlineEditableField.jsx
+                - LocalDatePicker.jsx
+            - customizedCss/
+        - otherPages/
+- package.json
+- jest.config.js
+- .babelrc
+
 ## Mockup API
 - [ ] json-server
 ## UI component
