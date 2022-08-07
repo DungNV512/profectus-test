@@ -1,0 +1,37 @@
+.rft-sentto-block {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #e1e5e9;
+}
+
+.rft-sentto-block_first {
+  margin-bottom: 24px;
+}
+
+.rft-sentto-block__title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-sentto-block__value {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+#claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+}

@@ -1,0 +1,70 @@
+@import url('./theme/background-color.css');
+@import url('./theme/border.css');
+@import url('./theme/container.css');
+@import url('./theme/dimension..css');
+@import url('./theme/typography.css');
+@import url('./theme/flex.css');
+@import url('./theme/font.css');
+@import url('./theme/margin.css');
+@import url('./theme/padding.css');
+@import url('./theme/radius.css');
+@import url('./theme/relative.css');
+@import url('./theme/text-color.css');
+
+@import url('./pages/ClaimDetailsPage/customizedCss/amount-money-block.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/attachment.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/claim-code.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/claim-descripton-edit.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/claim-reason.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/claim-work-flow.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/comments-activity.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-assignne.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-block-sent-to.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-claim-currency.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-claim-end-date.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-claim-invoice.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-claim-start-date.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-classification.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-duplicated-icon.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-merch-dept.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-rightside-menu.css');
+@import url('./pages/ClaimDetailsPage/customizedCss/rft-sentto-block.css');
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

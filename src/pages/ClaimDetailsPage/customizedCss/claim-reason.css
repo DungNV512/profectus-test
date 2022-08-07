@@ -1,0 +1,269 @@
+.rft-claim-reason .tab-headings {
+  display: none;
+}
+.rft-claim-reason .claim-details-header {
+  display: none;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  display: none;
+}
+.rft-claim-reason .tab-content {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+}
+
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static {
+  display: block;
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+}
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-claim-reason
+  #claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div.rft-pt-20
+  > div.rft-h-50.rft-radius-3.rft-b-solid-blue-50.row-between-center.rft-mb-24.rft-pl-16.rft-pr-16.rft-pt-8.rft-pb-8
+  > div
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-claim-reason {
+  width: 100%;
+}
+
+.rft-claim-reason #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-claim-reason #attributes\.claimReason {
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-offet-390.rft-pr-44
+  > div.row-start-center.rft-mb-20
+  > div:nth-child(3)
+  > div
+  > div
+  > a {
+  color: #2684ff;
+}
+
+.rft-claim-reason .tab-content {
+  width: 100%;
+}
+
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  width: 349px;
+  height: 50px;
+  position: relative;
+  left: -30px;
+  border: 1px solid #e1e5e9;
+  top: -20px;
+  border-radius: 3px;
+}
+
+.rft-claim-reason #attributes\.claimReason {
+  margin-left: 0px;
+  border: none;
+  display: flex;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 16px;
+}
+
+.rft-claim-reason #attributes\.claimReason input {
+  height: 100%;
+}
+
+.rft-claim-reason #inline-edit-control-attributes\.claimReason > div {
+  position: relative;
+  top: -20px;
+  left: 31px;
+}

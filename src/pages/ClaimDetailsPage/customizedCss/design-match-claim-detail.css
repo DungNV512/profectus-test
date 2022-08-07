@@ -1,0 +1,34 @@
+.rft-claim-detail-content {
+  width: 808px;
+}
+
+.rft-claim-detail-menu {
+  width: 349px;
+}
+
+.rft-claim-detail-big-id {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  color: #274a65;
+}
+
+.rft-claim-detail-link-top-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #2684ff !important;
+}
+
+.rft-claim-detail-link-top-text a {
+  color: #2684ff !important;
+}
+
+.rft-claim-detail-link-open-popup {
+  padding-left: 12px;
+  padding-right: 12px;
+}

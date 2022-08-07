@@ -1,0 +1,118 @@
+.rft-claim-currency .tab-headings {
+  display: none;
+}
+.rft-claim-currency #claim-details-values > span {
+  display: none;
+}
+.rft-claim-currency #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+.rft-claim-currency .tab-content {
+  border-left: none;
+  width: 100%;
+  float: none;
+}
+
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5)
+  > div.col-md-5.control-label {
+  display: none;
+}
+
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+}
+
+.rft-claim-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+}

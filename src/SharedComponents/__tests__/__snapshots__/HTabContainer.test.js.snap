@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HTabContainer matches snapshot 1`] = `
+<div>
+  <div
+    class="horizontal-tab-container row"
+  >
+    <div
+      class="col-sm-12"
+    >
+      <ul
+        class="nav nav-tabs"
+        role="tablist"
+      >
+        <li
+          class=""
+          role="presentation"
+        >
+          <a
+            aria-selected="false"
+            href="#"
+            role="tab"
+            tabindex="-1"
+          >
+            Tab 1
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="col-sm-12"
+    >
+      <div
+        class="tab-content"
+      >
+        <div
+          aria-hidden="true"
+          class="fade tab-pane"
+          role="tabpanel"
+        >
+          Tab 1
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

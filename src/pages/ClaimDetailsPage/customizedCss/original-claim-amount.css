@@ -1,0 +1,288 @@
+.rft-original-claim-amount {
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div.rft-original-claim-amount
+  > div
+  > div.tab-headings.col-sm-2 {
+  display: none;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div.rft-original-claim-amount
+  > div
+  > div.tab-content.col-sm-10 {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+}
+
+.rft-original-claim-amount #claim-details-values > span {
+  display: none;
+}
+
+.rft-original-claim-amount #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: block;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  display: none;
+}
+
+.rft-original-claim-amount #claimExTax {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding: 0px !important;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  width: 100%;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  float: none;
+  width: 100%;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  display: none;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  display: none;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding: 0px !important;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  float: none;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div.rft-original-claim-amount
+  > div
+  > div.tab-content.col-sm-10 {
+  padding: 0px !important;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  width: 100%;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-original-claim-amount #claim-details-values > span {
+  padding-bottom: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  /* Profectus Blue / 300 */
+
+  color: #4d6a80;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div.rft-original-claim-amount
+  > div
+  > div.tab-content.col-sm-10
+  > div {
+  margin-left: 0px;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div.rft-original-claim-amount
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-original-claim-amount .tab-headings {
+  display: none;
+}
+
+.rft-original-claim-amount .tab-content {
+  border-left: none;
+}
+
+.rft-original-claim-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in {
+  display: none;
+}

@@ -1,0 +1,20 @@
+/* font */
+
+.rft-font-family-roboto {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.rft-weight-300 {
+    font-weight: 300;
+}
+
+.rft-weight-400 {
+    font-weight: 400;
+}
+
+.rft-weight-500 {
+    font-weight: 500;
+}
+.rft-weight-600 {
+    font-weight: 600;
+}

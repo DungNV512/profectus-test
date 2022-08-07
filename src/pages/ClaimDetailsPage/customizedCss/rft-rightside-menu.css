@@ -1,0 +1,966 @@
+.rft-rightside-menu .tab-headings {
+  display: none;
+}
+
+.rft-rightside-menu .claim-details-header {
+  display: none;
+}
+
+.rft-rightside-menu .tab-content {
+  border-left: none;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  position: absolute;
+  left: -143px;
+  top: 13px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  position: relative;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  position: absolute;
+  left: -143px;
+  top: 67px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  position: relative;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  position: absolute;
+  left: -143px;
+  top: 121px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static {
+  position: relative;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  position: absolute;
+  left: 31px;
+  top: 187px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  display: none;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  width: 349px;
+  border-top: 1px solid #e1e5e9;
+}
+
+.rft-rightside-menu #claimCode {
+  height: 23px;
+  background: #eef8fe;
+  border-radius: 3px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: #4d6a80;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  padding-left: 4px;
+  padding-right: 4px;
+  position: relative;
+  left: -14px;
+  top: 12px;
+}
+
+.rft-rightside-menu #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  position: absolute;
+  top: 0px;
+  top: 275px;
+  width: 349px;
+  border: 1px solid #e1e5e9;
+  height: 50px;
+  left: -127px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  color: #4d6a80;
+  position: relative;
+  left: 1px;
+  top: -2px;
+}
+
+.rft-rightside-menu #attributes\.claimReason {
+  width: 263px;
+  position: absolute;
+  left: -132px;
+  top: 21px;
+  overflow: hidden;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  position: absolute;
+  left: 16px;
+  top: 339px;
+  z-index: 10;
+}
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #invoiceNumber {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  width: 349px;
+  display: block;
+  left: -1px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  position: absolute;
+  left: 16px;
+  top: 392px;
+}
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.startDate {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  left: -3px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  position: absolute;
+  left: 16px;
+  top: 445px;
+}
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.endDate {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  left: -3px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  position: absolute;
+  left: 16px;
+  top: 498px;
+}
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #currency {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  left: -2px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  position: absolute;
+  left: 16px;
+  top: 551px;
+}
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.merchDept {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  left: -3px;
+}
+
+/* #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+} */
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  position: absolute;
+  left: -142px;
+  top: 605px;
+}
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.sku {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  position: absolute;
+  left: 16px;
+  top: 660px;
+}
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.classification {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu #inline-edit-control-invoiceNumber > div {
+  position: relative;
+  left: 158px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: table;
+  width: 349px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div
+  > div:nth-child(2) {
+  position: relative;
+  top: -4px;
+}
+
+.rft-rightside-menu #inline-edit-control-attributes\.startDate > div {
+  position: relative;
+  left: 159px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: table;
+  width: 349px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div
+  > div:nth-child(2) {
+  position: relative;
+  top: -4px;
+}
+
+.rft-rightside-menu #inline-edit-control-attributes\.endDate > div {
+  position: relative;
+  left: 159px;
+}
+
+.rft-rightside-menu #currency {
+  width: 349px;
+  display: block;
+}
+
+.rft-rightside-menu #inline-edit-control-currency > div {
+  position: relative;
+  left: 158px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  position: absolute;
+  left: 16px;
+  top: 220px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.documentType {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  position: absolute;
+  left: 16px;
+  top: 270px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.erpSystem {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu #attributes\.invoiceDate {
+  position: relative;
+  left: -1px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  position: absolute;
+  left: -141px;
+  top: 597px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.netPayAmount {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  position: absolute;
+  left: -141px;
+  top: 644px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.glExpenseDescription {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  position: absolute;
+  left: -141px;
+  top: 700px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.glExpense {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  position: absolute;
+  left: 16px;
+  top: 760px;
+}
+
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.accountingDocumentNumber {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-rightside-menu #attributes\.claimReason {
+  border: none !important;
+}
+
+.rft-rightside-menu #text-attributes\.claimReason {
+  width: 253px;
+}
+
+.rft-rightside-menu #inline-edit-control-attributes\.claimReason > div {
+  position: relative;
+  z-index: 10;
+}
+
+/* 
+.rft-rightside-menu
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7)
+  > div.col-md-5.control-label {
+  width: 201px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-rightside-menu #attributes\.classification {
+  position: relative;
+  top: -4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+} */

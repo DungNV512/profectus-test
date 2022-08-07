@@ -1,0 +1,31 @@
+.rft-custom-attachment {
+  border: none;
+  height: unset !important;
+  min-height: unset !important;
+}
+
+.rft-custom-attachment .panel-heading {
+  margin-top: 0px !important;
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+  padding: 0px !important;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #274a65;
+  margin-bottom: 15px;
+  border-bottom: none;
+}
+
+.rft-custom-attachment .panel-body {
+  padding: 0px !important;
+}
+
+.rft-custom-attachment #drop-zone-container {
+  border-width: 1px;
+  border-color: #b3bfc9;
+  height: 49px;
+  padding: 0px !important;
+}

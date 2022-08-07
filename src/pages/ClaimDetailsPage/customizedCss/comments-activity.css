@@ -1,0 +1,365 @@
+.ref-custom-comments-activity .nav-tabs {
+  border: none;
+}
+.ref-custom-comments-activity .nav-tabs .active {
+  border-bottom: none;
+  padding: 0px;
+  font-weight: 600;
+}
+
+.ref-custom-comments-activity .nav-tabs li a {
+  padding: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 14px;
+  line-height: 21px;
+  outline: none;
+}
+
+.ref-custom-comments-activity
+  #claim-details-tabs
+  > div:nth-child(1)
+  > ul
+  > li:nth-child(1) {
+  margin-right: 24px;
+}
+.ref-custom-comments-activity #comment {
+  box-shadow: none;
+}
+
+.ref-custom-comments-activity .panel-default {
+  border: none;
+}
+.ref-custom-comments-activity textarea.form-control {
+  height: 50px !important;
+  width: 100% !important;
+  border-radius: 3px !important;
+}
+
+.ref-custom-comments-activity #claim-comments-panel > .panel-body {
+  padding: 0px;
+  background: white;
+}
+
+.ref-custom-comments-activity #add-claim-comment .form-horizontal {
+  width: 100%;
+}
+
+.ref-custom-comments-activity #add-claim-comment {
+  padding-bottom: 0px;
+  margin-bottom: 16px;
+  border-bottom: none;
+}
+
+.ref-custom-comments-activity #claim-comment-list .claim-comment-row {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border-bottom: none;
+  margin-bottom: 16px;
+}
+
+.ref-custom-comments-activity .user-avatar {
+  display: none;
+}
+
+.ref-custom-comments-activity .claim-comment-author {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #274a65;
+}
+
+.ref-custom-comments-activity .margin-left-ten {
+  margin-left: 8px;
+  margin-right: 8px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  /* Profectus Blue / 200 */
+
+  color: #8095a5;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(4) {
+  display: block;
+  /* position: unset; */
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(5) {
+  display: block;
+  top: 3px;
+  /* position: unset; */
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(6) {
+  display: block;
+  /* position: unset; */
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(4)
+  button {
+  padding: 0px !important;
+  left: -8px;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(5)
+  button {
+  padding: 0px !important;
+  left: -8px;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(6)
+  button {
+  padding: 0px !important;
+  left: -8px;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(4)
+  button:hover {
+  background: none !important;
+  outline: none !important;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(5)
+  button:hover {
+  background: none !important;
+  outline: none !important;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(6)
+  button:hover {
+  background: none !important;
+  outline: none !important;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(4)
+  button:active {
+  background: none !important;
+  outline: none !important;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(5)
+  button:active {
+  background: none !important;
+  outline: none !important;
+}
+
+.ref-custom-comments-activity
+  #claim-comment-list
+  .claim-comment-row
+  span:nth-child(6)
+  button:active {
+  background: none !important;
+  outline: none !important;
+}
+
+.ref-custom-comments-activity .claim-comments-content {
+  margin: 0px !important;
+  padding: 0px !important;
+  width: 100%;
+  background: unset !important;
+  word-wrap: break-word;
+}
+
+.ref-custom-comments-activity .margin-left-ten {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* identical to box height, or 150% */
+
+  /* Profectus Blue / 200 */
+
+  color: #8095a5;
+}
+
+.ref-custom-comments-activity .transition-comment-claim-status-value {
+  margin: 0px;
+  height: 24px;
+  font-style: unset;
+  border: none;
+  background: #f0f2f4;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  align-items: center;
+  color: #4d6a80;
+}
+
+.ref-custom-comments-activity .glyphicon-arrow-right {
+  font-size: 12px;
+}
+.ref-custom-comments-activity .glyphicon-eye-open {
+  position: relative;
+  left: -8px;
+}
+
+.ref-custom-comments-activity li #claim-details-tabs-tab-1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #2684ff;
+}
+
+.ref-custom-comments-activity li.active #claim-details-tabs-tab-1 {
+  font-family: "Roboto" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  line-height: 21px !important;
+  text-align: center !important;
+  color: #274a65 !important;
+}
+
+.ref-custom-comments-activity li #claim-details-tabs-tab-2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #2684ff;
+}
+
+.ref-custom-comments-activity li.active #claim-details-tabs-tab-2 {
+  font-family: "Roboto" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  line-height: 21px !important;
+  text-align: center !important;
+  color: #274a65 !important;
+}
+
+.ref-custom-comments-activity #claim-details-tabs > div:nth-child(1) {
+  margin-bottom: 24px;
+}
+
+.ref-custom-comments-activity #claim-details-tabs > div:nth-child(2) > div {
+  margin-top: 0px;
+}
+
+.ref-custom-comments-activity #comment {
+  border-color: #e1e5e9;
+  border-width: 1px;
+}
+
+.ref-custom-comments-activity .claim-comments-content {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height, or 150% */
+
+  /* Profectus Blue / 300 */
+
+  color: #4d6a80;
+  margin-top: 2px !important;
+}
+
+.rft-cancel-amount-panel {
+}
+
+.cancellation-panel {
+  margin-top: 0px !important;
+}
+
+.ref-custom-comments-activity #comment {
+  padding-top: 14.5px;
+}
+
+.ref-custom-comments-activity #comment::-webkit-input-placeholder {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #8095a5;
+}
+
+.ref-custom-comments-activity #comment:-moz-placeholder {
+  /* Firefox 18- */
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #8095a5;
+}
+
+.ref-custom-comments-activity #comment::-moz-placeholder {
+  /* Firefox 19+ */
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #8095a5;
+}
+
+.ref-custom-comments-activity #comment:-ms-input-placeholder {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #8095a5;
+}
+
+.ref-custom-comments-activity #comment::placeholder {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #8095a5;
+}

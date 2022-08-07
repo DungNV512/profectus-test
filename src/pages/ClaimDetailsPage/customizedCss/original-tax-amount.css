@@ -1,0 +1,296 @@
+.rft-original-tax-amount {
+}
+
+.rft-original-tax-amount
+  #claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(2)
+  > div.rft-original-tax-amount
+  > div
+  > div.tab-headings.col-sm-2 {
+  display: none;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(2)
+  > div.rft-original-tax-amount
+  > div
+  > div.tab-headings.col-sm-2 {
+  display: none;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(2)
+  > div.rft-original-tax-amount
+  > div
+  > div.tab-content.col-sm-10 {
+  margin-left: 0px;
+  border-left: unset;
+  width: 100%;
+  float: none;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(2)
+  > div.rft-original-tax-amount
+  > div
+  > div.tab-content.col-sm-10
+  > div {
+  margin-left: 0px;
+}
+
+.rft-original-tax-amount #claim-details-values > span {
+  display: none;
+}
+
+.rft-original-tax-amount #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div::before {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div::after {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding: 0px;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  display: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  display: none;
+}
+
+.rft-original-tax-amount #claimTax {
+  padding: 0px !important;
+  margin-left: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  width: 100%;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  float: none;
+}
+
+.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  width: 100%;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(2)
+  > div.rft-original-tax-amount
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+div.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+div.rft-original-tax-amount
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  float: none;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(3)
+  > div:nth-child(2)
+  > div.rft-original-tax-amount
+  > div
+  > div.tab-content.col-sm-10 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+div.rft-original-tax-amount .tab-headings {
+  display: none;
+}
+
+div.rft-original-tax-amount .tab-content {
+  border-left: none;
+}

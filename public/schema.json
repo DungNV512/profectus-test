@@ -1,0 +1,884 @@
+{
+	"properties": [
+		{
+			"displayName": "Claim Code",
+			"secondryDisplayName": "Claim Code",
+			"propertyName": "claimCode",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 10,
+			"attributeName": "",
+			"groupName": "left-column",
+			"dataFormat": "",
+			"lookupList": [],
+			"editable": false,
+			"dtoMappingProperty": "claimCodeDetails.name",
+			"attribute": false,
+			"header": true
+		},
+		{
+			"displayName": "Invoice Number",
+			"secondryDisplayName": "Invoice Number",
+			"propertyName": "invoiceNumber",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 20,
+			"attributeName": "",
+			"groupName": "left-column",
+			"dataFormat": "",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": false,
+			"header": true
+		},
+		{
+			"displayName": "Invoice Date",
+			"secondryDisplayName": "Invoice Date",
+			"propertyName": "attributes",
+			"type": "DATE",
+			"orderIndex": 30,
+			"attributeName": "invoiceDate",
+			"groupName": "left-column",
+			"dataFormat": "DD/MM/YYYY",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": true
+		},
+		{
+			"displayName": "Process Date",
+			"secondryDisplayName": "Process Date",
+			"propertyName": "attributes",
+			"type": "DATE",
+			"orderIndex": 50,
+			"attributeName": "processDate",
+			"groupName": "left-column",
+			"dataFormat": "DD/MM/YYYY",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": true
+		},
+		{
+			"displayName": "Doc Type",
+			"secondryDisplayName": "Doc Type",
+			"propertyName": "attributes",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 110,
+			"attributeName": "documentType",
+			"groupName": "left-column",
+			"dataFormat": "",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": false
+		},
+		{
+			"displayName": "ERP System",
+			"secondryDisplayName": "ERP System",
+			"propertyName": "attributes",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 120,
+			"attributeName": "erpSystem",
+			"groupName": "left-column",
+			"dataFormat": "",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": false
+		},
+		{
+			"displayName": "Currency",
+			"secondryDisplayName": "Currency",
+			"propertyName": "currency",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 40,
+			"attributeName": "",
+			"groupName": "left-column",
+			"dataFormat": "",
+			"lookupList": [
+				{
+					"key": "1",
+					"value": "AED"
+				},
+				{
+					"key": "2",
+					"value": "AFN"
+				},
+				{
+					"key": "3",
+					"value": "ALL"
+				},
+				{
+					"key": "4",
+					"value": "AMD"
+				},
+				{
+					"key": "5",
+					"value": "ANG"
+				},
+				{
+					"key": "6",
+					"value": "AOA"
+				},
+				{
+					"key": "7",
+					"value": "ARS"
+				},
+				{
+					"key": "8",
+					"value": "AUD"
+				},
+				{
+					"key": "9",
+					"value": "AWG"
+				},
+				{
+					"key": "10",
+					"value": "AZN"
+				},
+				{
+					"key": "11",
+					"value": "BAM"
+				},
+				{
+					"key": "12",
+					"value": "BBD"
+				},
+				{
+					"key": "13",
+					"value": "BDT"
+				},
+				{
+					"key": "14",
+					"value": "BGN"
+				},
+				{
+					"key": "15",
+					"value": "BHD"
+				},
+				{
+					"key": "16",
+					"value": "BIF"
+				},
+				{
+					"key": "17",
+					"value": "BMD"
+				},
+				{
+					"key": "18",
+					"value": "BND"
+				},
+				{
+					"key": "19",
+					"value": "BOB"
+				},
+				{
+					"key": "20",
+					"value": "BRL"
+				},
+				{
+					"key": "21",
+					"value": "BSD"
+				},
+				{
+					"key": "22",
+					"value": "BTN"
+				},
+				{
+					"key": "23",
+					"value": "BWP"
+				},
+				{
+					"key": "24",
+					"value": "BYR"
+				},
+				{
+					"key": "25",
+					"value": "BZD"
+				},
+				{
+					"key": "26",
+					"value": "CAD"
+				},
+				{
+					"key": "27",
+					"value": "CDF"
+				},
+				{
+					"key": "28",
+					"value": "CHF"
+				},
+				{
+					"key": "29",
+					"value": "CLP"
+				},
+				{
+					"key": "30",
+					"value": "CNY"
+				},
+				{
+					"key": "31",
+					"value": "COP"
+				},
+				{
+					"key": "32",
+					"value": "CRC"
+				},
+				{
+					"key": "33",
+					"value": "CUC"
+				},
+				{
+					"key": "34",
+					"value": "CVE"
+				},
+				{
+					"key": "35",
+					"value": "CZK"
+				},
+				{
+					"key": "36",
+					"value": "DJF"
+				},
+				{
+					"key": "37",
+					"value": "DKK"
+				},
+				{
+					"key": "38",
+					"value": "DOP"
+				},
+				{
+					"key": "39",
+					"value": "DZD"
+				},
+				{
+					"key": "40",
+					"value": "EGP"
+				},
+				{
+					"key": "41",
+					"value": "ERN"
+				},
+				{
+					"key": "42",
+					"value": "ETB"
+				},
+				{
+					"key": "43",
+					"value": "EUR"
+				},
+				{
+					"key": "44",
+					"value": "FJD"
+				},
+				{
+					"key": "45",
+					"value": "FKP"
+				},
+				{
+					"key": "46",
+					"value": "GBP"
+				},
+				{
+					"key": "47",
+					"value": "GEL"
+				},
+				{
+					"key": "48",
+					"value": "GHS"
+				},
+				{
+					"key": "49",
+					"value": "GIP"
+				},
+				{
+					"key": "50",
+					"value": "GMD"
+				},
+				{
+					"key": "51",
+					"value": "GNF"
+				},
+				{
+					"key": "52",
+					"value": "GTQ"
+				},
+				{
+					"key": "53",
+					"value": "GYD"
+				},
+				{
+					"key": "54",
+					"value": "HKD"
+				},
+				{
+					"key": "55",
+					"value": "HNL"
+				},
+				{
+					"key": "56",
+					"value": "HRK"
+				},
+				{
+					"key": "57",
+					"value": "HTG"
+				},
+				{
+					"key": "58",
+					"value": "HUF"
+				},
+				{
+					"key": "59",
+					"value": "IDR"
+				},
+				{
+					"key": "60",
+					"value": "ILS"
+				},
+				{
+					"key": "61",
+					"value": "INR"
+				},
+				{
+					"key": "62",
+					"value": "IQD"
+				},
+				{
+					"key": "63",
+					"value": "IRR"
+				},
+				{
+					"key": "64",
+					"value": "ISK"
+				},
+				{
+					"key": "65",
+					"value": "JMD"
+				},
+				{
+					"key": "66",
+					"value": "JOD"
+				},
+				{
+					"key": "67",
+					"value": "JPY"
+				},
+				{
+					"key": "68",
+					"value": "KES"
+				},
+				{
+					"key": "69",
+					"value": "KGS"
+				},
+				{
+					"key": "70",
+					"value": "KHR"
+				},
+				{
+					"key": "71",
+					"value": "KMF"
+				},
+				{
+					"key": "72",
+					"value": "KPW"
+				},
+				{
+					"key": "73",
+					"value": "KRW"
+				},
+				{
+					"key": "74",
+					"value": "KWD"
+				},
+				{
+					"key": "75",
+					"value": "KYD"
+				},
+				{
+					"key": "76",
+					"value": "KZT"
+				},
+				{
+					"key": "77",
+					"value": "LAK"
+				},
+				{
+					"key": "78",
+					"value": "LBP"
+				},
+				{
+					"key": "79",
+					"value": "LKR"
+				},
+				{
+					"key": "80",
+					"value": "LRD"
+				},
+				{
+					"key": "81",
+					"value": "LSL"
+				},
+				{
+					"key": "82",
+					"value": "LTL"
+				},
+				{
+					"key": "83",
+					"value": "LVL"
+				},
+				{
+					"key": "84",
+					"value": "LYD"
+				},
+				{
+					"key": "85",
+					"value": "MAD"
+				},
+				{
+					"key": "86",
+					"value": "MDL"
+				},
+				{
+					"key": "87",
+					"value": "MGA"
+				},
+				{
+					"key": "88",
+					"value": "MKD"
+				},
+				{
+					"key": "89",
+					"value": "MMK"
+				},
+				{
+					"key": "90",
+					"value": "MNT"
+				},
+				{
+					"key": "91",
+					"value": "MOP"
+				},
+				{
+					"key": "92",
+					"value": "MRO"
+				},
+				{
+					"key": "93",
+					"value": "MUR"
+				},
+				{
+					"key": "94",
+					"value": "MVR"
+				},
+				{
+					"key": "95",
+					"value": "MWK"
+				},
+				{
+					"key": "96",
+					"value": "MXN"
+				},
+				{
+					"key": "97",
+					"value": "MYR"
+				},
+				{
+					"key": "98",
+					"value": "MZN"
+				},
+				{
+					"key": "99",
+					"value": "NAD"
+				},
+				{
+					"key": "100",
+					"value": "NGN"
+				},
+				{
+					"key": "101",
+					"value": "NIO"
+				},
+				{
+					"key": "102",
+					"value": "NOK"
+				},
+				{
+					"key": "103",
+					"value": "NPR"
+				},
+				{
+					"key": "104",
+					"value": "NZD"
+				},
+				{
+					"key": "105",
+					"value": "OMR"
+				},
+				{
+					"key": "106",
+					"value": "PAB"
+				},
+				{
+					"key": "107",
+					"value": "PEN"
+				},
+				{
+					"key": "108",
+					"value": "PGK"
+				},
+				{
+					"key": "109",
+					"value": "PHP"
+				},
+				{
+					"key": "110",
+					"value": "PKR"
+				},
+				{
+					"key": "111",
+					"value": "PLN"
+				},
+				{
+					"key": "112",
+					"value": "PYG"
+				},
+				{
+					"key": "113",
+					"value": "QAR"
+				},
+				{
+					"key": "114",
+					"value": "RON"
+				},
+				{
+					"key": "115",
+					"value": "RUB"
+				},
+				{
+					"key": "116",
+					"value": "RWF"
+				},
+				{
+					"key": "117",
+					"value": "SAR"
+				},
+				{
+					"key": "118",
+					"value": "SBD"
+				},
+				{
+					"key": "119",
+					"value": "SCR"
+				},
+				{
+					"key": "120",
+					"value": "SDG"
+				},
+				{
+					"key": "121",
+					"value": "SEK"
+				},
+				{
+					"key": "122",
+					"value": "SGD"
+				},
+				{
+					"key": "123",
+					"value": "SHP"
+				},
+				{
+					"key": "124",
+					"value": "SLL"
+				},
+				{
+					"key": "125",
+					"value": "SOS"
+				},
+				{
+					"key": "126",
+					"value": "SRD"
+				},
+				{
+					"key": "127",
+					"value": "STD"
+				},
+				{
+					"key": "128",
+					"value": "SVC"
+				},
+				{
+					"key": "129",
+					"value": "SYP"
+				},
+				{
+					"key": "130",
+					"value": "SZL"
+				},
+				{
+					"key": "131",
+					"value": "THB"
+				},
+				{
+					"key": "132",
+					"value": "TJS"
+				},
+				{
+					"key": "133",
+					"value": "TMT"
+				},
+				{
+					"key": "134",
+					"value": "TND"
+				},
+				{
+					"key": "135",
+					"value": "TOP"
+				},
+				{
+					"key": "136",
+					"value": "TRY"
+				},
+				{
+					"key": "137",
+					"value": "TTD"
+				},
+				{
+					"key": "138",
+					"value": "TVD"
+				},
+				{
+					"key": "139",
+					"value": "TWD"
+				},
+				{
+					"key": "140",
+					"value": "TZS"
+				},
+				{
+					"key": "141",
+					"value": "UAH"
+				},
+				{
+					"key": "142",
+					"value": "UGX"
+				},
+				{
+					"key": "143",
+					"value": "USD"
+				},
+				{
+					"key": "144",
+					"value": "UYU"
+				},
+				{
+					"key": "145",
+					"value": "UZS"
+				},
+				{
+					"key": "146",
+					"value": "VEF"
+				},
+				{
+					"key": "147",
+					"value": "VND"
+				},
+				{
+					"key": "148",
+					"value": "VUV"
+				},
+				{
+					"key": "149",
+					"value": "WST"
+				},
+				{
+					"key": "150",
+					"value": "XAF"
+				},
+				{
+					"key": "151",
+					"value": "XCD"
+				},
+				{
+					"key": "152",
+					"value": "XOF"
+				},
+				{
+					"key": "153",
+					"value": "YER"
+				},
+				{
+					"key": "154",
+					"value": "ZAR"
+				},
+				{
+					"key": "155",
+					"value": "ZMK"
+				},
+				{
+					"key": "156",
+					"value": "ZWD"
+				}
+			],
+			"editable": true,
+			"dtoMappingProperty": "currencyDetails.code",
+			"attribute": false,
+			"header": true
+		},
+		{
+			"displayName": "Original Claim Amount (excl. tax)",
+			"secondryDisplayName": "Original Claim Amount (excl. tax)",
+			"propertyName": "claimExTax",
+			"type": "NUMERIC",
+			"orderIndex": 83,
+			"attributeName": "",
+			"groupName": "right-column",
+			"dataFormat": "$0,0.00",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": false,
+			"header": true
+		},
+		{
+			"displayName": "Original Claim Amount (inc. tax)",
+			"secondryDisplayName": "Original Claim Amount (inc. tax)",
+			"propertyName": "claimIncTax",
+			"type": "NUMERIC",
+			"orderIndex": 81,
+			"attributeName": "",
+			"groupName": "right-column",
+			"dataFormat": "$0,0.00",
+			"lookupList": [],
+			"editable": false,
+			"dtoMappingProperty": null,
+			"attribute": false,
+			"header": true
+		},
+		{
+			"displayName": "Original Tax Amount",
+			"secondryDisplayName": "Original Tax Amount",
+			"propertyName": "claimTax",
+			"type": "NUMERIC",
+			"orderIndex": 82,
+			"attributeName": "",
+			"groupName": "right-column",
+			"dataFormat": "$0,0.00",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": false,
+			"header": true
+		},
+		{
+			"displayName": "Clearing Doc No",
+			"secondryDisplayName": "Clearing Doc No",
+			"propertyName": "attributes",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 140,
+			"attributeName": "clearingDocumentNumber",
+			"groupName": "left-column",
+			"dataFormat": "",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": true
+		},
+		{
+			"displayName": "Net pay",
+			"secondryDisplayName": "Net pay",
+			"propertyName": "attributes",
+			"type": "NUMERIC",
+			"orderIndex": 160,
+			"attributeName": "netPayAmount",
+			"groupName": "right-column",
+			"dataFormat": "$0,0.00",
+			"lookupList": [],
+			"editable": false,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": false
+		},
+		{
+			"displayName": "Sent to Client",
+			"secondryDisplayName": "Sent to Client",
+			"propertyName": "attributes",
+			"type": "DATE",
+			"orderIndex": 1,
+			"attributeName": "sentToClient",
+			"groupName": "sentto-block",
+			"dataFormat": "MMM DD, YYYY",
+			"lookupList": [],
+			"editable": false,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": true
+		},
+		{
+			"displayName": "Sent to Supplier",
+			"secondryDisplayName": "Sent to Supplier",
+			"propertyName": "attributes",
+			"type": "DATE",
+			"orderIndex": 2,
+			"attributeName": "sentToSupplier",
+			"groupName": "sentto-block",
+			"dataFormat": "MMM DD, YYYY",
+			"lookupList": [],
+			"editable": false,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": true
+		},
+		{
+			"displayName": "Acc Doc No",
+			"secondryDisplayName": "Acc Doc No",
+			"propertyName": "attributes",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 130,
+			"attributeName": "accountingDocumentNumber",
+			"groupName": "left-column",
+			"dataFormat": "",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": false
+		},
+		{
+			"displayName": "GL Expense",
+			"secondryDisplayName": "GL Expense",
+			"propertyName": "attributes",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 140,
+			"attributeName": "glExpense",
+			"groupName": "right-column",
+			"dataFormat": "",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": false
+		},
+		{
+			"displayName": "GL Expense Desc",
+			"secondryDisplayName": "GL Expense Desc",
+			"propertyName": "attributes",
+			"type": "ALPHANUMERIC",
+			"orderIndex": 150,
+			"attributeName": "glExpenseDescription",
+			"groupName": "right-column",
+			"dataFormat": "",
+			"lookupList": [],
+			"editable": true,
+			"dtoMappingProperty": null,
+			"attribute": true,
+			"header": false
+		}
+	]
+}

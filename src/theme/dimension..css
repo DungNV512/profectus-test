@@ -1,0 +1,15 @@
+.rft-w-390 {
+    width: 390px;
+}
+
+.rft-w-offet-390 {
+    width: calc(100% - 390px);
+}
+
+.rft-h-50 {
+    height: 50px;
+}
+
+.rft-width-full {
+    width: 100%;
+}

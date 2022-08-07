@@ -1,0 +1,4773 @@
+.rft-block-sent-to {
+}
+.rft-block-money {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #e1e5e9;
+}
+
+.rft-block-money-1 {
+  margin-bottom: 24px;
+}
+
+.rft-block-money-1 .tab-headings {
+  display: none;
+}
+.rft-block-money-1 .claim-details-header {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+.rft-block-money-1 .tab-content {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  min-height: unset;
+  position: unset;
+}
+.rft-block-money-1 #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  padding-right: 0px;
+  padding-left: 0px;
+  min-height: unset;
+  position: unset;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  text-align: unset;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-block-money-1 > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-block-money-2 > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-block-money-3 > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-menu
+  > div.rft-block-money
+  > div
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+.rft-block-money-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+.rft-block-money-1 #claimExTax {
+  padding: 0px;
+  display: block;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  margin-left: 0px;
+  background: unset !important;
+}
+.rft-block-money-1 #text-claimExTax {
+  height: 40px;
+}
+.rft-block-money-1 #claim-details-values > div:nth-child(2) > div.collapse.in {
+  display: none;
+}
+
+/* money 2 ============ */
+.rft-block-money-2 {
+  margin-bottom: 24px;
+}
+
+.rft-block-money-2 .tab-headings {
+  display: none;
+}
+.rft-block-money-2 .claim-details-header {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+.rft-block-money-2 .tab-content {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  min-height: unset;
+  position: unset;
+}
+.rft-block-money-2 #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  padding-right: 0px;
+  padding-left: 0px;
+  min-height: unset;
+  position: unset;
+}
+
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: block;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  text-align: unset;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-menu
+  > div.rft-block-money
+  > div
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+.rft-block-money-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+.rft-block-money-2 #claimTax {
+  padding: 0px;
+  display: block;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  margin-left: 0px;
+  background: unset !important;
+}
+.rft-block-money-2 #text-claimTax {
+  height: 40px;
+}
+.rft-block-money-2 #claim-details-values > div:nth-child(2) > div.collapse.in {
+  display: none;
+}
+
+/* money 3 ============ */
+.rft-block-money-3 .tab-headings {
+  display: none;
+}
+.rft-block-money-3 .claim-details-header {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+.rft-block-money-3 .tab-content {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  min-height: unset;
+  position: unset;
+}
+.rft-block-money-3 #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(3) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  padding-right: 0px;
+  padding-left: 0px;
+  min-height: unset;
+  position: unset;
+}
+
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: block;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  text-align: unset;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-menu
+  > div.rft-block-money
+  > div
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+.rft-block-money-3 #claimIncTax {
+  padding: 0px;
+  display: block;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  margin-left: 0px;
+  background: unset !important;
+}
+.rft-block-money-3
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+}
+.rft-block-money-3 #text-claimTax {
+  height: 40px;
+}
+.rft-block-money-3 #claim-details-values > div:nth-child(2) > div.collapse.in {
+  display: none;
+}
+
+/* ============== block tag */
+
+.rft-block-other {
+  padding-top: 24px;
+}
+
+.rft-block-tag {
+  margin-bottom: 42px;
+}
+
+div.rft-block-tag > div > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-block-tag .tab-headings {
+  display: none;
+}
+
+.rft-block-tag .tab-content {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-block-tag > div > div > div.tab-content.col-sm-10 > div {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-block-tag #claim-details-values > span {
+  display: none;
+}
+.rft-block-tag #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-block-tag #claim-details-values > div:nth-child(2) > div.collapse.in {
+  display: none;
+}
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-block-tag > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  display: none;
+}
+
+.rft-block-tag
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  float: none;
+  padding: 4px;
+  width: auto;
+  position: relative;
+  display: inline-block;
+  min-height: unset;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: #4d6a80;
+  background: #eef8fe;
+  border-radius: 3px;
+}
+.rft-block-tag #claimCode {
+  display: block;
+}
+
+/* claim reason block ============ */
+
+.rft-block-claim-reason {
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.rft-block-claim-reason svg {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+
+.rft-block-claim-reason > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-claim-reason > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+.rft-block-claim-reason > div > div.tab-content.col-sm-10 {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-block-claim-reason > div > div.tab-content.col-sm-10 > div {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-block-claim-reason #claim-details-values > span {
+  display: none;
+}
+.rft-block-claim-reason #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in {
+  display: none;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  min-height: 50px;
+  background: #ffffff;
+  border-radius: 3px;
+  margin-right: 0px;
+  margin-left: 0px;
+  border: 1px solid #e1e5e9;
+  padding-bottom: 16px;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: relative;
+  min-height: unset;
+  padding-top: 6px;
+  padding-left: 16px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  color: #4d6a80;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  min-height: unset;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.rft-block-claim-reason #attributes\.claimReason {
+  padding: 0px;
+  margin-left: 0px;
+  display: block;
+  word-break: break-all;
+  padding-bottom: 6px;
+  width: 220px;
+}
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+  width: 100%;
+}
+
+.rft-block-claim-reason
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+.rft-block-claim-reason #inline-edit-control-attributes\.claimReason > div {
+  position: relative;
+  left: -94px;
+}
+
+/* invoice number block ============ */
+
+.rft-block-invoice-number {
+  margin-bottom: 24px;
+}
+
+.rft-block-invoice-number > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-invoice-number > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+.rft-block-invoice-number > div > div.tab-content.col-sm-10 {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+.rft-block-invoice-number > div > div.tab-content.col-sm-10 > div {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-block-invoice-number #claim-details-values > span {
+  display: none;
+}
+
+.rft-block-invoice-number #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in {
+  display: none;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+/* common */
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+
+.rft-block-invoice-number
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+
+.rft-block-invoice-number #invoiceNumber {
+  padding: 0px;
+  display: block;
+}
+
+/* block start date =========== */
+
+.rft-block-start-date {
+  margin-bottom: 24px;
+}
+
+.rft-block-start-date > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-start-date > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+.rft-block-start-date > div > div.tab-content.col-sm-10 {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+.rft-block-start-date > div > div.tab-content.col-sm-10 > div {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-block-start-date #claim-details-values > span {
+  display: none;
+}
+
+.rft-block-start-date #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in {
+  display: none;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+
+.rft-block-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+
+.rft-block-start-date #attributes\.startDate {
+  padding: 0px;
+  display: block;
+}
+
+/* block end date =========== */
+
+.rft-block-end-date {
+  margin-bottom: 24px;
+}
+
+.rft-block-end-date > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-end-date > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+.rft-block-end-date > div > div.tab-content.col-sm-10 {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+.rft-block-end-date > div > div.tab-content.col-sm-10 > div {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-block-end-date #claim-details-values > span {
+  display: none;
+}
+
+.rft-block-end-date #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-block-end-date #claim-details-values > div:nth-child(2) > div.collapse.in {
+  display: none;
+}
+
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+
+.rft-block-end-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+
+.rft-block-end-date #attributes\.endDate {
+  padding: 0px;
+  display: block;
+}
+
+/* currency block ============= */
+
+.rft-block-currency {
+  margin-bottom: 24px;
+}
+
+.rft-block-currency > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-currency > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+
+.rft-block-currency > div > div.tab-content.col-sm-10 {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+.rft-block-currency > div > div.tab-content.col-sm-10 > div {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-block-currency #claim-details-values > span {
+  display: none;
+}
+
+.rft-block-currency #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-block-currency #claim-details-values > div:nth-child(2) > div.collapse.in {
+  display: none;
+}
+
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+/* common */
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: unset;
+  padding-right: unset;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: unset;
+  padding-right: unset;
+}
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+.rft-block-currency
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+.rft-block-currency #currency {
+  padding: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+/* merch block ============ */
+
+.rft-block-merch {
+  margin-bottom: 24px;
+}
+
+.rft-block-merch > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-merch > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+
+.rft-block-merch > div > div.tab-content.col-sm-10 {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+.rft-block-merch > div > div.tab-content.col-sm-10 > div {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-block-merch #claim-details-values > span {
+  display: none;
+}
+
+.rft-block-merch #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-block-merch #claim-details-values > div:nth-child(2) > div.collapse.in {
+  display: none;
+}
+
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+/* common */
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: unset;
+  padding-right: unset;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: unset;
+  padding-right: unset;
+}
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+.rft-block-merch
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+.rft-block-merch #attributes\.merchDept {
+  padding: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  padding: 0px;
+  display: block;
+}
+
+/* classification block ============ */
+
+.rft-block-classification {
+  margin-bottom: 24px;
+}
+
+.rft-block-classification > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-classification > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+
+.rft-block-classification > div > div.tab-content.col-sm-10 {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+.rft-block-classification > div > div.tab-content.col-sm-10 > div {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-left: none;
+  margin-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-block-classification #claim-details-values > span {
+  display: none;
+}
+
+.rft-block-classification #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in {
+  display: none;
+}
+
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+/* common */
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: unset;
+  padding-right: unset;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: unset;
+  padding-right: unset;
+}
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group {
+  display: block;
+}
+.rft-block-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7)
+  > div.col-md-7.form-control-static
+  > div
+  > div.inline-field-group
+  > div {
+  display: block;
+}
+.rft-block-classification #attributes\.classification {
+  padding: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+  padding: 0px;
+  display: block;
+}
+
+/* popup reversal details  */
+
+.rft-claim-reversal-details {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(77, 106, 128, 0.6);
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rft-claim-reversal-details_content {
+  background: #ffffff;
+  box-shadow: 3px 2px 15px rgba(0, 0, 0, 0.02);
+  border-radius: 10px;
+  width: 431px;
+  padding: 40px;
+  position: relative;
+}
+
+.rft-claim-reversal-details_close {
+  position: absolute;
+  right: -20px;
+  top: -18px;
+  cursor: pointer;
+}
+
+.rft-claim-reversal-details_title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  color: #4d6a80;
+  margin-bottom: 24px;
+}
+
+.rft-claim-reversal-details_field > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-claim-reversal-details_field > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+
+.rft-claim-reversal-details_field > div > div.tab-content.col-sm-10 {
+  margin-left: 0px;
+  border-left: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.col-md-12.no-padding {
+  display: none;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9 {
+  padding-left: 0px;
+  width: 100%;
+  float: unset;
+  margin-right: 0px;
+  margin-left: 0px;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1) {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2) {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3) {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4) {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-claim-reversal-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+/* popup invoiced details  */
+.rft-claim-invoice-details {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(77, 106, 128, 0.6);
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rft-claim-invoice-details_content {
+  background: #ffffff;
+  box-shadow: 3px 2px 15px rgba(0, 0, 0, 0.02);
+  border-radius: 10px;
+  width: 431px;
+  padding: 40px;
+  position: relative;
+}
+
+.rft-claim-invoice-details_close {
+  position: absolute;
+  right: -20px;
+  top: -18px;
+  cursor: pointer;
+}
+
+.rft-claim-invoice-details_title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  color: #4d6a80;
+  margin-bottom: 24px;
+}
+
+.rft-claim-invoice-details_field > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-claim-invoice-details_field > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+
+.rft-claim-invoice-details_field > div > div.tab-content.col-sm-10 {
+  margin-left: 0px;
+  border-left: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.col-md-12.no-padding {
+  display: none;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9 {
+  padding-left: 0px;
+  width: 100%;
+  float: unset;
+  margin-right: 0px;
+  margin-left: 0px;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1) {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2) {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3) {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4) {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-claim-invoice-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+/* hoho  */
+
+.rft-claim-cancel-details_field .tab-headings {
+  display: none;
+}
+
+.rft-claim-cancel-details_field .inline-field-group {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-claim-cancel-details_field .tab-content {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.col-md-12.no-padding {
+  display: none;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9 {
+  padding-left: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1) {
+  margin-bottom: 24px;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2) {
+  margin-bottom: 24px;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3) {
+  margin-bottom: 24px;
+}
+
+/* common  */
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-claim-cancel-details_field
+  #claim
+  > div
+  > div.rft-claim-reversal-details
+  > div
+  > div
+  > div.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+  padding-right: 0px;
+  padding-left: 0px;
+  min-height: 0px;
+  position: unset;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-claim-cancel-details_field
+  #processAttributes\.cancelAmount\.currentCancelClaimExTax {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+/* 1 */
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-claim-cancel-details_field
+  #claim
+  > div
+  > div.rft-claim-reversal-details
+  > div
+  > div
+  > div.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+  padding-right: 0px;
+  padding-left: 0px;
+  min-height: 0px;
+  position: unset;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(2)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-claim-cancel-details_field
+  #processAttributes\.cancelAmount\.currentCancelClaimTax {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+/* 3 */
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-claim-cancel-details_field
+  #claim
+  > div
+  > div.rft-claim-reversal-details
+  > div
+  > div
+  > div.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+  padding-right: 0px;
+  padding-left: 0px;
+  min-height: 0px;
+  position: unset;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-claim-cancel-details_field
+  #processAttributes\.cancelAmount\.currentCancelClaimIncTax {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+/* 4 */
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-claim-cancel-details_field
+  #claim
+  > div
+  > div.rft-claim-reversal-details
+  > div
+  > div
+  > div.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+  padding-right: 0px;
+  padding-left: 0px;
+  min-height: 0px;
+  position: unset;
+}
+
+.rft-claim-cancel-details_field
+  > div
+  > div.tab-content.col-sm-10
+  > div
+  > div.tab-pane.active.fade.in
+  > div
+  > div.row.read-only-form.form-horizontal.inline-fields.pad-left-10.col-md-9
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-claim-cancel-details_field #processAttributes\.cancelAmount\.comment {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-claim-cancel-details_field > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-company-name-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.rft-claim-detail-content
+  > div.row-start-center.rft-mb-20
+  > div:nth-child(1)
+  > span
+  > div
+  > span
+  > a {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #2684ff;
+}
+
+.rft-description-1 > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-description-1 > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+.rft-description-1 > div > div.tab-content.col-sm-10 {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.rft-description-1 > div > div.tab-content.col-sm-10 > div {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-description-1 #claim-details-values > span {
+  display: none;
+}
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+
+.rft-description-1 #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-description-1 {
+  margin-bottom: 24px;
+}
+
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: relative;
+  min-height: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-bottom: 8px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-description-1
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-7.form-control-static {
+  min-height: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-description-1 #attributes\.description1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-description-2 > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4)
+  > div.col-md-5.control-label {
+}
+.rft-description-2 > div > div.tab-headings.col-sm-2 {
+  display: none;
+}
+.rft-description-2 > div > div.tab-content.col-sm-10 {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.rft-description-2 > div > div.tab-content.col-sm-10 > div {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-description-2 #claim-details-values > span {
+  display: none;
+}
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  display: none;
+}
+
+.rft-description-2 #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-description-2 {
+  margin-bottom: 24px;
+}
+
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5)
+  > div.col-md-5.control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: relative;
+  min-height: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-bottom: 8px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5)
+  > div.col-md-7.form-control-static {
+  min-height: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.rft-description-2 #attributes\.description2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-description-2
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-type-claim-common > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-type-claim-common .tab-headings {
+  display: none;
+}
+
+.rft-type-claim-common .tab-content {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-type-claim-common.rft-CA-block-process-date
+  > div
+  > div.tab-content.col-sm-10
+  > div.tab-content {
+  border-left: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-type-claim-common #claim-details-values > span {
+  display: none;
+}
+
+.rft-type-claim-common
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-type-claim-common
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-type-claim-common
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-type-claim-common
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-type-claim-common #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-type-claim-common
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-type-claim-common
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: 0px;
+}
+.rft-type-claim-common .form-group {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 24px;
+}
+
+.rft-type-claim-common .form-group .control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-bottom: 8px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-type-claim-common .form-group .form-control-static {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-CA-block-process-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-CA-block-process-date .fixed-values-input {
+  padding: 0px !important;
+}
+
+.rft-CA-block-gl-net-pay > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-CA-block-gl-net-pay .tab-headings {
+  display: none;
+}
+
+.rft-CA-block-gl-net-pay .tab-content {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  min-height: unset;
+  position: unset;
+}
+
+.rft-CA-block-gl-net-pay .claim-details-header {
+  display: none;
+}
+
+.rft-CA-block-gl-net-pay #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-CA-block-gl-net-pay
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  display: none;
+}
+
+.rft-CA-block-gl-net-pay
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-CA-block-gl-net-pay
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-CA-block-gl-net-pay
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-CA-block-gl-net-pay .form-group {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-CA-block-gl-net-pay .control-label {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-bottom: 8px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+
+.rft-CA-block-gl-net-pay .form-control-static {
+  padding-top: 0px;
+  width: 100%;
+  float: unset;
+  position: unset;
+  min-height: unset;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-bottom: 8px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}
+
+.rft-CA-block-gl-net-pay .fixed-values-input {
+  padding: 0px;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-content
+  > div.row-start-center.rft-mb-20
+  > div:nth-child(1) {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-content
+  > div.row-start-center.rft-mb-20
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > span
+  > div
+  > span
+  > a {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #2684ff;
+}
+
+.rft-CA-block-gl-net-pay .control-label {
+  padding-top: 0px !important;
+}
+
+.rft-CA-block-gl-net-pay .form-group {
+  margin-bottom: 24px !important;
+}
+
+.rft-block-SKU > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-block-SKU .tab-headings {
+  display: none;
+}
+
+.rft-block-SKU .tab-content {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-block-SKU > div > div.tab-content.col-sm-10 > div {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.rft-block-SKU #claim-details-values > span {
+  display: none;
+}
+
+.rft-block-SKU
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-block-SKU
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-block-SKU
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-block-SKU #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-block-SKU
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-block-SKU
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-block-SKU
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-block-SKU
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-block-SKU
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-block-SKU .form-group {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.rft-block-SKU .control-label {
+  padding: 0px !important;
+  margin-bottom: 8px;
+  float: none;
+  width: 100%;
+  position: unset;
+  min-height: unset;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+}
+.rft-block-SKU .form-control-static {
+  padding: 0px !important;
+  margin-bottom: 8px;
+  float: none;
+  width: 100%;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-block-SKU .inline-field-group {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #4d6a80;
+}

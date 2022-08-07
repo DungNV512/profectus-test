@@ -1,0 +1,137 @@
+.rft-claim-start-date .tab-headings {
+  display: none;
+}
+
+.rft-claim-start-date .tab-content {
+  border-left: 0px;
+  margin-left: 0px;
+}
+
+.rft-claim-start-date #claim-details-values > span {
+  display: none;
+}
+.rft-claim-start-date #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div.collapse.in {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-5.control-label {
+  display: none;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3)
+  > div.col-md-7.form-control-static {
+  width: 100%;
+}
+.rft-claim-start-date
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+}
+.rft-claim-start-date #attributes\.startDate {
+  padding-left: 0px;
+}

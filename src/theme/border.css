@@ -1,0 +1,15 @@
+.rft-bb-solid-blue-50 {
+    border-bottom: 1px solid #E1E5E9;
+}
+
+.rft-b-solid-blue-50 {
+    border: 1px solid #E1E5E9;
+}
+
+.rft-b-dashed-blue-50 {
+    border: 1px dashed #E1E5E9;
+}
+
+.rft-border-none {
+    border: none;
+}

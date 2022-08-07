@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TabContainer matches snapshot 1`] = `
+<div>
+  <div
+    class="clearfix row"
+  >
+    <div
+      class="tab-headings col-sm-2"
+    >
+      <ul
+        class="nav nav-pills nav-stacked"
+        role="tablist"
+      >
+        <li
+          class=""
+          role="presentation"
+        >
+          <a
+            aria-selected="false"
+            href="#"
+            role="tab"
+            tabindex="-1"
+          >
+            Tab 1
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="tab-content col-sm-10"
+    >
+      <div
+        class="tab-content"
+      >
+        <div
+          aria-hidden="true"
+          class="fade tab-pane"
+          role="tabpanel"
+        >
+          Tab 1
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

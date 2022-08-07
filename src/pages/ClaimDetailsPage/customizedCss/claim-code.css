@@ -1,0 +1,141 @@
+.rft-claim-code .tab-headings {
+  display: none;
+}
+.rft-claim-code .claim-details-header {
+  display: none;
+}
+
+.rft-claim-code .tab-content {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: left;
+}
+
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+.rft-claim-code .control-label {
+  display: none;
+}
+
+.rft-claim-code #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.rft-claim-code
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+}
+
+.rft-claim-code #claimCode {
+  min-height: unset;
+  display: inline-block;
+  width: unset;
+  background: #eef8fe;
+  border-radius: 3px;
+  padding: 4px;
+}
+
+.rft-claim-code {
+  position: relative;
+}
+
+.rft-claim-code svg {
+  position: absolute;
+  right: 0px;
+  top: 79px;
+  right: 16px;
+}
+
+.rft-claim-code #claim-details-values > div:nth-child(2) > div.collapse.in {
+  display: none;
+}

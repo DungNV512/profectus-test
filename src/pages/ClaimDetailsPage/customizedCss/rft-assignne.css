@@ -1,0 +1,32 @@
+.rft-assignne__title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #274a65;
+  margin-bottom: 8px;
+}
+
+.rft-assignne__button {
+  height: 31px;
+  background: #f0f2f4;
+  border-radius: 3px;
+  padding-left: 12px;
+  padding-right: 4px;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rft-assignne__button span {
+  margin-right: 8px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #4d6a80;
+}

@@ -1,0 +1,58 @@
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(1)
+  > div.rft-mb-24
+  > div.rft-mb-4.rft-amount-money-block
+  > div
+  > span {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: right;
+  color: #274a65;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-390
+  > div:nth-child(1)
+  > div.rft-mb-24
+  > div.rft-mb-4.rft-amount-money-block
+  > div
+  > div {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: right;
+  color: #2684ff;
+  position: relative;
+  top: -8px;
+}
+
+.rft-amount-money span {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: right;
+  color: #274a65;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-menu
+  > div:nth-child(1)
+  > div.rft-mb-24
+  > div.rft-mb-4.rft-amount-money-block
+  > div.original-claim-amount {
+  display: none;
+}

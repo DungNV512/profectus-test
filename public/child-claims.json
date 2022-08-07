@@ -1,0 +1,889 @@
+[
+	{
+		"id": 2,
+		"version": 2,
+		"claimCodeDetails": {
+			"id": 5,
+			"version": 1,
+			"name": "D010",
+			"prefix": "DP",
+			"description": "Duplicate - Same Vendor",
+			"glAccountNumber": 41010,
+			"glAccountDescription": "Payment Errors",
+			"claimTypeDetails": {
+				"id": 127,
+				"version": null,
+				"name": "Duplicates",
+				"subject": null,
+				"auditType": {
+					"id": 123,
+					"version": null,
+					"name": "CA"
+				}
+			}
+		},
+		"vendorApplicationDetails": {
+			"id": 3,
+			"version": 0,
+			"key": "2BOrZnBJja",
+			"organisationKey": "RQvji66Lnf",
+			"companyKey": "rEvrx2y5Gf",
+			"name": "Ling corp",
+			"number": "123456",
+			"businessNumber": "",
+			"contacts": [
+				{
+					"id": null,
+					"version": 0,
+					"key": "7a6hKaNEIo",
+					"name": "Ling zhang",
+					"emailAddress": "lzhang@profectusgroup.com",
+					"mobileNumber": "123456789",
+					"phoneNumber": null
+				}
+			],
+			"addresses": [],
+			"totalPurchases": "1000.0000",
+			"transactionCount": 2,
+			"totalCredits": "2.0000",
+			"creditCount": 1,
+			"lastInvoicePaidDate": [
+				2022,
+				12,
+				12
+			],
+			"type": "",
+			"companyName": "TEST2",
+			"trading": true,
+			"statementRequestEligible": false,
+			"address": null
+		},
+		"companyApplicationDetails": {
+			"id": 6,
+			"version": 0,
+			"key": "rEvrx2y5Gf",
+			"name": "TEST2",
+			"number": "test2",
+			"organisationKey": "RQvji66Lnf",
+			"active": true,
+			"code": "DEFAULT",
+			"authorityLetters": [
+				{
+					"auditType": {
+						"id": 125,
+						"version": null,
+						"name": "RA"
+					},
+					"authorityLetter": {
+						"id": 2,
+						"version": 1,
+						"documentDetails": {
+							"id": 109,
+							"version": 0,
+							"key": "LCF3vSYtEk",
+							"name": "Get_Started_With_Smallpdf.pdf",
+							"description": null,
+							"path": "onesource/company/rEvrx2y5Gf/authority-letters/e15bf247b2c0",
+							"fileName": "e15bf247b2c0",
+							"fileSize": 69432,
+							"fileContentType": "application/pdf",
+							"dateCreated": "05/07/2022 11:03:56.127"
+						},
+						"signedDate": "07/07/2022",
+						"expiryDate": "07/07/2023",
+						"auditTypes": [
+							{
+								"id": 125,
+								"version": null,
+								"name": "RA"
+							},
+							{
+								"id": 124,
+								"version": null,
+								"name": "CC"
+							},
+							{
+								"id": 1,
+								"version": null,
+								"name": "SA"
+							},
+							{
+								"id": 123,
+								"version": null,
+								"name": "CA"
+							}
+						],
+						"createdBy": "Steve123test hallo123test",
+						"dateCreated": "05/07/2022 11:03:56"
+					}
+				},
+				{
+					"auditType": {
+						"id": 124,
+						"version": null,
+						"name": "CC"
+					},
+					"authorityLetter": {
+						"id": 4,
+						"version": 1,
+						"documentDetails": {
+							"id": 111,
+							"version": 0,
+							"key": "l9vzZPz3e5",
+							"name": "Get_Started_With_Smallpdf.pdf",
+							"description": null,
+							"path": "onesource/company/rEvrx2y5Gf/authority-letters/919dc34c49bc",
+							"fileName": "919dc34c49bc",
+							"fileSize": 69432,
+							"fileContentType": "application/pdf",
+							"dateCreated": "05/07/2022 11:08:20.081"
+						},
+						"signedDate": "26/07/2022",
+						"expiryDate": "26/07/2023",
+						"auditTypes": [
+							{
+								"id": 124,
+								"version": null,
+								"name": "CC"
+							}
+						],
+						"createdBy": "Steve123test hallo123test",
+						"dateCreated": "05/07/2022 11:08:20"
+					}
+				},
+				{
+					"auditType": {
+						"id": 1,
+						"version": null,
+						"name": "SA"
+					},
+					"authorityLetter": {
+						"id": 2,
+						"version": 1,
+						"documentDetails": {
+							"id": 109,
+							"version": 0,
+							"key": "LCF3vSYtEk",
+							"name": "Get_Started_With_Smallpdf.pdf",
+							"description": null,
+							"path": "onesource/company/rEvrx2y5Gf/authority-letters/e15bf247b2c0",
+							"fileName": "e15bf247b2c0",
+							"fileSize": 69432,
+							"fileContentType": "application/pdf",
+							"dateCreated": "05/07/2022 11:03:56.127"
+						},
+						"signedDate": "07/07/2022",
+						"expiryDate": "07/07/2023",
+						"auditTypes": [
+							{
+								"id": 125,
+								"version": null,
+								"name": "RA"
+							},
+							{
+								"id": 124,
+								"version": null,
+								"name": "CC"
+							},
+							{
+								"id": 1,
+								"version": null,
+								"name": "SA"
+							},
+							{
+								"id": 123,
+								"version": null,
+								"name": "CA"
+							}
+						],
+						"createdBy": "Steve123test hallo123test",
+						"dateCreated": "05/07/2022 11:03:56"
+					}
+				},
+				{
+					"auditType": {
+						"id": 123,
+						"version": null,
+						"name": "CA"
+					},
+					"authorityLetter": {
+						"id": 2,
+						"version": 1,
+						"documentDetails": {
+							"id": 109,
+							"version": 0,
+							"key": "LCF3vSYtEk",
+							"name": "Get_Started_With_Smallpdf.pdf",
+							"description": null,
+							"path": "onesource/company/rEvrx2y5Gf/authority-letters/e15bf247b2c0",
+							"fileName": "e15bf247b2c0",
+							"fileSize": 69432,
+							"fileContentType": "application/pdf",
+							"dateCreated": "05/07/2022 11:03:56.127"
+						},
+						"signedDate": "07/07/2022",
+						"expiryDate": "07/07/2023",
+						"auditTypes": [
+							{
+								"id": 125,
+								"version": null,
+								"name": "RA"
+							},
+							{
+								"id": 124,
+								"version": null,
+								"name": "CC"
+							},
+							{
+								"id": 1,
+								"version": null,
+								"name": "SA"
+							},
+							{
+								"id": 123,
+								"version": null,
+								"name": "CA"
+							}
+						],
+						"createdBy": "Steve123test hallo123test",
+						"dateCreated": "05/07/2022 11:03:56"
+					}
+				}
+			],
+			"companySettings": {
+				"id": null,
+				"version": null,
+				"auditCenterId": null,
+				"auditCenterCountry": null,
+				"emailReplyToAddress": null,
+				"operatingCountryId": null,
+				"operatingCountryShortName": null
+			},
+			"authorityLetterAuditTypes": [
+				{
+					"id": 125,
+					"version": null,
+					"name": "RA"
+				},
+				{
+					"id": 124,
+					"version": null,
+					"name": "CC"
+				},
+				{
+					"id": 1,
+					"version": null,
+					"name": "SA"
+				},
+				{
+					"id": 123,
+					"version": null,
+					"name": "CA"
+				}
+			]
+		},
+		"claimNumber": "test23DP0002",
+		"invoiceNumber": "123456",
+		"currencyDetails": {
+			"id": 8,
+			"version": 0,
+			"code": "AUD",
+			"name": "Australia Dollar"
+		},
+		"projectDetails": {
+			"id": 2,
+			"version": 6,
+			"key": "o41X7agIgi",
+			"name": "TEST2  - CA Project 2022",
+			"organisationDetails": {
+				"id": 6,
+				"version": 0,
+				"key": "RQvji66Lnf",
+				"name": "TEST2",
+				"number": "test2",
+				"sourceKey": "MPDOETZjsd",
+				"active": true
+			},
+			"companies": [
+				{
+					"id": 6,
+					"version": 0,
+					"key": "rEvrx2y5Gf",
+					"name": "TEST2",
+					"number": "test2",
+					"organisationKey": "RQvji66Lnf",
+					"active": true,
+					"code": "DEFAULT",
+					"authorityLetters": [
+						{
+							"auditType": {
+								"id": 125,
+								"version": null,
+								"name": "RA"
+							},
+							"authorityLetter": {
+								"id": 2,
+								"version": 1,
+								"documentDetails": {
+									"id": 109,
+									"version": 0,
+									"key": "LCF3vSYtEk",
+									"name": "Get_Started_With_Smallpdf.pdf",
+									"description": null,
+									"path": "onesource/company/rEvrx2y5Gf/authority-letters/e15bf247b2c0",
+									"fileName": "e15bf247b2c0",
+									"fileSize": 69432,
+									"fileContentType": "application/pdf",
+									"dateCreated": "05/07/2022 11:03:56.127"
+								},
+								"signedDate": "07/07/2022",
+								"expiryDate": "07/07/2023",
+								"auditTypes": [
+									{
+										"id": 125,
+										"version": null,
+										"name": "RA"
+									},
+									{
+										"id": 124,
+										"version": null,
+										"name": "CC"
+									},
+									{
+										"id": 1,
+										"version": null,
+										"name": "SA"
+									},
+									{
+										"id": 123,
+										"version": null,
+										"name": "CA"
+									}
+								],
+								"createdBy": "Steve123test hallo123test",
+								"dateCreated": "05/07/2022 11:03:56"
+							}
+						},
+						{
+							"auditType": {
+								"id": 124,
+								"version": null,
+								"name": "CC"
+							},
+							"authorityLetter": {
+								"id": 4,
+								"version": 1,
+								"documentDetails": {
+									"id": 111,
+									"version": 0,
+									"key": "l9vzZPz3e5",
+									"name": "Get_Started_With_Smallpdf.pdf",
+									"description": null,
+									"path": "onesource/company/rEvrx2y5Gf/authority-letters/919dc34c49bc",
+									"fileName": "919dc34c49bc",
+									"fileSize": 69432,
+									"fileContentType": "application/pdf",
+									"dateCreated": "05/07/2022 11:08:20.081"
+								},
+								"signedDate": "26/07/2022",
+								"expiryDate": "26/07/2023",
+								"auditTypes": [
+									{
+										"id": 124,
+										"version": null,
+										"name": "CC"
+									}
+								],
+								"createdBy": "Steve123test hallo123test",
+								"dateCreated": "05/07/2022 11:08:20"
+							}
+						},
+						{
+							"auditType": {
+								"id": 1,
+								"version": null,
+								"name": "SA"
+							},
+							"authorityLetter": {
+								"id": 2,
+								"version": 1,
+								"documentDetails": {
+									"id": 109,
+									"version": 0,
+									"key": "LCF3vSYtEk",
+									"name": "Get_Started_With_Smallpdf.pdf",
+									"description": null,
+									"path": "onesource/company/rEvrx2y5Gf/authority-letters/e15bf247b2c0",
+									"fileName": "e15bf247b2c0",
+									"fileSize": 69432,
+									"fileContentType": "application/pdf",
+									"dateCreated": "05/07/2022 11:03:56.127"
+								},
+								"signedDate": "07/07/2022",
+								"expiryDate": "07/07/2023",
+								"auditTypes": [
+									{
+										"id": 125,
+										"version": null,
+										"name": "RA"
+									},
+									{
+										"id": 124,
+										"version": null,
+										"name": "CC"
+									},
+									{
+										"id": 1,
+										"version": null,
+										"name": "SA"
+									},
+									{
+										"id": 123,
+										"version": null,
+										"name": "CA"
+									}
+								],
+								"createdBy": "Steve123test hallo123test",
+								"dateCreated": "05/07/2022 11:03:56"
+							}
+						},
+						{
+							"auditType": {
+								"id": 123,
+								"version": null,
+								"name": "CA"
+							},
+							"authorityLetter": {
+								"id": 2,
+								"version": 1,
+								"documentDetails": {
+									"id": 109,
+									"version": 0,
+									"key": "LCF3vSYtEk",
+									"name": "Get_Started_With_Smallpdf.pdf",
+									"description": null,
+									"path": "onesource/company/rEvrx2y5Gf/authority-letters/e15bf247b2c0",
+									"fileName": "e15bf247b2c0",
+									"fileSize": 69432,
+									"fileContentType": "application/pdf",
+									"dateCreated": "05/07/2022 11:03:56.127"
+								},
+								"signedDate": "07/07/2022",
+								"expiryDate": "07/07/2023",
+								"auditTypes": [
+									{
+										"id": 125,
+										"version": null,
+										"name": "RA"
+									},
+									{
+										"id": 124,
+										"version": null,
+										"name": "CC"
+									},
+									{
+										"id": 1,
+										"version": null,
+										"name": "SA"
+									},
+									{
+										"id": 123,
+										"version": null,
+										"name": "CA"
+									}
+								],
+								"createdBy": "Steve123test hallo123test",
+								"dateCreated": "05/07/2022 11:03:56"
+							}
+						}
+					],
+					"companySettings": {
+						"id": null,
+						"version": null,
+						"auditCenterId": null,
+						"auditCenterCountry": null,
+						"emailReplyToAddress": null,
+						"operatingCountryId": null,
+						"operatingCountryShortName": null
+					},
+					"authorityLetterAuditTypes": [
+						{
+							"id": 125,
+							"version": null,
+							"name": "RA"
+						},
+						{
+							"id": 124,
+							"version": null,
+							"name": "CC"
+						},
+						{
+							"id": 1,
+							"version": null,
+							"name": "SA"
+						},
+						{
+							"id": 123,
+							"version": null,
+							"name": "CA"
+						}
+					]
+				}
+			],
+			"fromDate": "28/06/2022",
+			"toDate": "27/07/2022",
+			"auditType": {
+				"id": 123,
+				"version": null,
+				"name": "CA"
+			},
+			"contractRate": "12.00",
+			"manager": {
+				"id": "00u3e2fcdd4Pd8Cv81d7",
+				"version": null,
+				"firstName": "kamaljeet",
+				"lastName": "Singh",
+				"emailAddress": "ksingh@profectusgroup.com",
+				"locked": false,
+				"credentialsExpired": false,
+				"enabled": true,
+				"statusDescription": "ACTIVE",
+				"credentialProviderKeys": [],
+				"mobileNumber": null,
+				"phoneNumber": null,
+				"position": "",
+				"dateCreated": [
+					2022,
+					6,
+					28,
+					1,
+					46,
+					27,
+					413959000
+				],
+				"lastLogin": null,
+				"userRoles": [
+					"Analyst",
+					"Analytics Manager",
+					"Senior Analyst",
+					"Recovery Officer",
+					"Account Manager"
+				],
+				"administrator": false,
+				"organisationUser": false,
+				"profileImageKey": null,
+				"status": "SAML( ACTIVE )",
+				"samlUser": true,
+				"localId": 2,
+				"initial": "K",
+				"key": "00u3e2fcdd4Pd8Cv81d7",
+				"fullName": "kamaljeet Singh",
+				"new": false
+			},
+			"recoveryOfficer": {
+				"id": "00u3e2fcdd4Pd8Cv81d7",
+				"version": null,
+				"firstName": "kamaljeet",
+				"lastName": "Singh",
+				"emailAddress": "ksingh@profectusgroup.com",
+				"locked": false,
+				"credentialsExpired": false,
+				"enabled": true,
+				"statusDescription": "ACTIVE",
+				"credentialProviderKeys": [],
+				"mobileNumber": null,
+				"phoneNumber": null,
+				"position": "",
+				"dateCreated": [
+					2022,
+					6,
+					28,
+					1,
+					46,
+					27,
+					413959000
+				],
+				"lastLogin": null,
+				"userRoles": [
+					"Analyst",
+					"Analytics Manager",
+					"Senior Analyst",
+					"Recovery Officer",
+					"Account Manager"
+				],
+				"administrator": false,
+				"organisationUser": false,
+				"profileImageKey": null,
+				"status": "SAML( ACTIVE )",
+				"samlUser": true,
+				"localId": 2,
+				"initial": "K",
+				"key": "00u3e2fcdd4Pd8Cv81d7",
+				"fullName": "kamaljeet Singh",
+				"new": false
+			},
+			"status": "ACTIVE",
+			"organisationKey": "RQvji66Lnf"
+		},
+		"claimIncTax": 110.0,
+		"claimExTax": 100.0,
+		"claimTax": 10.0,
+		"currentClaimExTax": 100.0,
+		"currentClaimTax": 10.0,
+		"state": {
+			"id": 1,
+			"version": 0,
+			"name": "Draft"
+		},
+		"attributes": {
+			"dupId": "1",
+			"paper": "",
+			"isError": "original",
+			"erpSystem": "33",
+			"glExpense": "",
+			"fiscalYear": "2023",
+			"invoiceDate": "2022-12-14",
+			"processDate": "2022-01-12",
+			"description1": "",
+			"description2": "",
+			"documentType": "33",
+			"netPayAmount": "",
+			"sentToClient": null,
+			"dupsSubSource": "vbv",
+			"claimHeaderTag": "Reference claim",
+			"sentToSupplier": null,
+			"groupIdentifier": "12-1",
+			"glExpenseDescription": "",
+			"clearingDocumentNumber": "",
+			"accountingDocumentNumber": ""
+		},
+		"backwardTransitions": [],
+		"forwardTransitions": [
+			{
+				"id": 5000,
+				"version": null,
+				"name": "Qa",
+				"state": {
+					"id": 2,
+					"version": 0,
+					"name": "Qa"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 10,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 5039,
+				"version": null,
+				"name": "Presented to client",
+				"state": {
+					"id": 4,
+					"version": 0,
+					"name": "Presented to client"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 20,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 5087,
+				"version": null,
+				"name": "Under review supplier",
+				"state": {
+					"id": 5,
+					"version": 0,
+					"name": "Under review supplier"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 30,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 5080,
+				"version": null,
+				"name": "Supplier approved",
+				"state": {
+					"id": 9,
+					"version": 0,
+					"name": "Supplier approved"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 40,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 5069,
+				"version": null,
+				"name": "Query",
+				"state": {
+					"id": 8,
+					"version": 0,
+					"name": "Query"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 50,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 5067,
+				"version": null,
+				"name": "Client approved",
+				"state": {
+					"id": 6,
+					"version": 0,
+					"name": "Client approved"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 60,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 5040,
+				"version": null,
+				"name": "With client deduction",
+				"state": {
+					"id": 10,
+					"version": 0,
+					"name": "With client deduction"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 70,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 4997,
+				"version": null,
+				"name": "Approved for invoicing",
+				"state": {
+					"id": 11,
+					"version": 0,
+					"name": "Approved for invoicing"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 80,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 5025,
+				"version": null,
+				"name": "Cancelled pending verification",
+				"state": {
+					"id": 19,
+					"version": 0,
+					"name": "Cancelled pending verification"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 90,
+				"processAttributes": null,
+				"requiredAttributes": null,
+				"generic": false,
+				"steps": [],
+				"processCode": null,
+				"warningMessage": null,
+				"commentRequired": false
+			},
+			{
+				"id": 5026,
+				"version": null,
+				"name": "Cancelled",
+				"state": {
+					"id": 14,
+					"version": 0,
+					"name": "Cancelled"
+				},
+				"backward": false,
+				"forward": true,
+				"orderIndex": 100,
+				"processAttributes": [
+					"claimCancellationReason",
+					"comment"
+				],
+				"requiredAttributes": [
+					"claimCancellationReason"
+				],
+				"generic": true,
+				"steps": [],
+				"processCode": "claimCancelled",
+				"warningMessage": null,
+				"commentRequired": false
+			}
+		],
+		"lastTransition": null,
+		"secondryTransition": null,
+		"dateCreated": [
+			2022,
+			7,
+			5,
+			12,
+			4,
+			56,
+			894070000
+		],
+		"createdBy": "Steve123test hallo123test",
+		"workflowProcessDetailsByCode": null,
+		"multiCompanyOrganisation": false,
+		"hasAnyAmountCancellation": false,
+		"amountCancellationAllowed": false,
+		"hasReversal": null,
+		"reverseClaim": null,
+		"hasAnyProcess": false,
+		"currentClaimIncTax": 110.0
+	}
+]

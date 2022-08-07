@@ -1,0 +1,59 @@
+.rft-duplicated-icon .tab-headings {
+  display: none;
+}
+.rft-duplicated-icon #claim-details-values > div:nth-child(2) {
+  display: none;
+}
+.rft-duplicated-icon #claim-details-values > div.pull-right.small {
+  display: none;
+}
+.rft-duplicated-icon .tab-content {
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  float: none;
+  position: unset;
+  min-height: unset;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.rft-duplicated-icon #claim-details-values > span > span.claim-type-name {
+  display: none;
+}
+.rft-duplicated-icon #claim-details-values > span {
+  padding-bottom: 0px;
+}
+
+.rft-duplicated-icon-container {
+  position: relative;
+}
+
+.rft-duplicated-icon {
+  position: absolute;
+  z-index: 10;
+  opacity: 0;
+}
+
+.rft-duplicated-icon
+  #claim-details-values
+  > span
+  > span.pad-left-10.pull-right {
+  display: block;
+  width: 110px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.rft-duplicated-icon
+  #claim-details-values
+  > span
+  > span.pad-left-10.pull-right
+  > a
+  > i {
+  display: block;
+  width: 100px;
+  background: red;
+  height: 24px;
+  position: relative;
+  left: -9px;
+}

@@ -1,0 +1,257 @@
+.rft-claim-descripton-edit .clearfix::after {
+  display: none;
+}
+
+.rft-claim-descripton-edit .clearfix::before {
+  display: none;
+}
+
+.rft-claim-descripton-edit .tab-headings {
+  display: none;
+}
+
+.rft-claim-descripton-edit .tab-content {
+  float: none;
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  padding: 0px;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-claim-descripton-edit .claim-details-header {
+  display: none;
+}
+
+.rft-claim-descripton-edit .pull-right.small {
+  display: none;
+}
+
+.rft-claim-descripton-edit .collapse.in {
+  display: none;
+}
+
+.rft-claim-descripton-edit .form-horizontal::after {
+  display: none;
+}
+
+.rft-claim-descripton-edit .form-horizontal::before {
+  display: none;
+}
+
+.rft-claim-descripton-edit .pad-top-15.col-md-6:nth-child(1) {
+  display: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(4) {
+  display: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(6) {
+  display: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5)
+  > div.col-md-5.control-label {
+  display: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5) {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5)
+  > div.col-md-7.form-control-static {
+  min-height: unset;
+  padding: 0px;
+  width: 100%;
+  float: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5)::before,
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2)
+  > div:nth-child(5)::after {
+  display: none;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  padding-top: 0px;
+  width: 100%;
+  float: none;
+  padding-left: 0px;
+  padding-right: 0px;
+  min-height: unset;
+  position: unset;
+}
+
+.rft-claim-descripton-edit #attributes\.claimDescription {
+  padding: 0px;
+  display: block;
+  box-sizing: border-box;
+  margin-left: 0px;
+}
+
+.rft-claim-descripton-edit
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-offet-390.rft-pr-44
+  > div.rft-claim-descripton-edit
+  > div
+  > div.tab-content.col-sm-10 {
+  position: unset;
+  min-height: unset;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-w-offet-390.rft-pr-44
+  > div.rft-claim-descripton-edit
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-claim-descripton-edit {
+  margin-bottom: 24px;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-content.rft-pr-44
+  > div.rft-claim-descripton-edit
+  > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-claim-descripton-edit #attributes\.claimDescription {
+  color: #274a65;
+}
+
+.rft-claim-descripton-edit > div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.rft-claim-descripton-edit > div > div.tab-content.col-sm-10 > div {
+  float: none;
+  margin-left: 0px;
+  border-left: none;
+  width: 100%;
+  padding: 0px;
+  position: unset;
+  min-height: unset;
+}
+
+.rft-claim-descripton-edit #attributes\.description2 {
+  display: block;
+  padding: 0px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* or 150% */
+
+  color: #274a65;
+}

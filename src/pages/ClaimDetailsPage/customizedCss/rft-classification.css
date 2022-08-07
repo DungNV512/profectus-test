@@ -1,0 +1,103 @@
+.rft-classification .tab-headings {
+  display: none;
+}
+
+.rft-classification .tab-content {
+  border-left: none;
+}
+
+.rft-classification #claim-details-values > span {
+  display: none;
+}
+
+.rft-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-classification #claim-details-values > div.pull-right.small {
+  display: none;
+}
+
+.rft-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+
+.rft-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+
+.rft-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6) {
+  display: none;
+}
+
+.rft-classification
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7)
+  > div.col-md-5.control-label {
+  display: none;
+}

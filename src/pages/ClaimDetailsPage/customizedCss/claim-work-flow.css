@@ -1,0 +1,122 @@
+.rft-claim-work-flow .workflow-status-select {
+  float: unset;
+  width: auto;
+}
+
+.rft-claim-work-flow .css-1okebmr-indicatorSeparator {
+  display: none;
+}
+
+.rft-claim-work-flow .css-yk16xz-control {
+  border: none;
+  background: #2684ff;
+}
+
+.rft-claim-work-flow .css-1wa3eu0-placeholder {
+  color: white;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.rft-claim-work-flow .css-1uccc91-singleValue {
+  color: white;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.rft-claim-work-flow .css-6q0nyr-Svg path {
+  fill: white;
+}
+
+.rft-claim-work-flow > div > div > div > div.css-yk16xz-control {
+  opacity: 0;
+}
+
+.rft-claim-work-flow > div > div > div > div.css-1pahdxg-control {
+  opacity: 0;
+}
+
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-menu
+  > div.rft-bb-solid-blue-50.rft-pb-24
+  > div.rft-mb-16
+  > div.rft-claim-work-flow
+  > div:nth-child(2)
+  > div
+  > div
+  > div
+  > div.css-1hb7zxy-IndicatorsContainer
+  > div {
+  background: red;
+  position: absolute;
+  left: 0px;
+  width: 300px;
+  z-index: 999;
+}
+.rft-claim-work-flow {
+  position: relative;
+  cursor: pointer;
+}
+
+.rft-claim-work-flow .rft-claim-work-flow_fakebutton {
+  height: 29px;
+  border-radius: 3px;
+  background: #2684ff;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 7px;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.rft-claim-work-flow .rft-claim-work-flow_fakebutton svg {
+  margin-left: 12px;
+}
+
+.rft-claim-work-flow .rft-claim-work-flow_fakebutton span {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #eef8fe;
+}
+
+.rft-claim-work-flow
+  > div:nth-child(2)
+  > div
+  > div
+  > div
+  > div.css-g1d714-ValueContainer {
+  padding-bottom: 0px;
+}
+.rft-claim-work-flow > div:nth-child(2) > div > div {
+  height: 29px;
+}
+
+.rft-claim-work-flow_status {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 114% */
+
+  /* Profectus Blue / 400 */
+
+  color: #274a65;
+  margin-bottom: 8px;
+}

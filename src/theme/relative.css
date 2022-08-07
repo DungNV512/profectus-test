@@ -1,0 +1,15 @@
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.rft-right-13 {
+    right: 13px;
+}
+
+.rft-top-13 {
+    top: 13px;
+}

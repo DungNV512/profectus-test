@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tooltip matches snapshot 1`] = `
+<div>
+  <div
+    class="in tooltip bottom"
+    id="claim-cancellation-glyph-tooltip"
+    role="tooltip"
+  >
+    <div
+      class="tooltip-arrow"
+    />
+    <div
+      class="tooltip-inner"
+    />
+  </div>
+</div>
+`;

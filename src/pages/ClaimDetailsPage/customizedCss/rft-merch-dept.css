@@ -1,0 +1,137 @@
+.rft-merch-dept {
+}
+
+.rft-merch-dept .tab-headings {
+  display: none;
+}
+
+.rft-merch-dept #claim-details-values > span {
+  display: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-merch-dept #claim-details-values > div.pull-right.small {
+  display: none;
+}
+/* 
+#claim
+  > div
+  > div.rft-container.row-between-start.rft-bg-white.rft-pt-60.rft-font-family-roboto
+  > div.rft-claim-detail-menu
+  > div.rft-pt-20
+  > div:nth-child(8) {
+  display: none;
+} */
+
+.rft-merch-dept .tab-content {
+  border-left: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(1) {
+  display: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(2) {
+  display: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(3) {
+  display: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(4) {
+  display: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(5) {
+  display: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(7) {
+  display: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6)
+  > div.col-md-5.control-label {
+  display: none;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1)
+  > div:nth-child(6)
+  > div.col-md-7.form-control-static {
+  padding-top: 0px;
+}
+
+.rft-merch-dept
+  #claim-details-values
+  > div:nth-child(2)
+  > div:nth-child(1)
+  > div
+  > span
+  > div:nth-child(1) {
+  padding-top: 0px;
+}
